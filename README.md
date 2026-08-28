@@ -1,28 +1,55 @@
-
-
-![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhN3Z3bmppYTFzZDVrdDJ4ejAwb2s3ZHBieHRqMm54YmMxNDE2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgIDPnPkixRau9gwId/giphy.gif)
-
-<h1 align="center">Hi 👋, I'm Wafdan / Leclouch</h1>
-<h3 align="center">Okabe Rintarou Wanna be</h3>
-
-<div>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=donut-vertical&langs_count=4&hide_values=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=donut-vertical&langs_count=4&hide_values=true&theme=midnight-purple)
-</div>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leclouch&label=Profile%20views&color=0e75b6&style=flat" alt="leclouch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leclouch" alt="leclouch" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0c&height=170&section=header&text=Future%20Gadget%20Lab&fontSize=48&fontColor=8aff80&animation=twinkling&desc=World%20line%20analysis%20in%20progress...&descSize=18&descAlignY=72" alt="Future Gadget Lab" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhN3Z3bmppYTFzZDVrdDJ4ejAwb2s3ZHBieHRqMm54YmMxNDE2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgIDPnPkixRau9gwId/giphy.gif" alt="Official lab specimen" width="220" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leclouch&show_icons=true&locale=en&layout=compact" alt="leclouch" /></p>
+<h1 align="center">Subject: Wafdan / Leclouch</h1>
+<p align="center"><i>Okabe Rintarou wannabe · building things across a few world lines</i></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leclouch&label=Lab%20visitors&color=75d66b&style=flat" alt="Profile views" />
+</p>
+
+## Lab Notes
+
+> The Organization insists this is a GitHub profile. I insist it is a record of experiments, questionable ideas, and projects that escaped the microwave.
+
+- 🧪 Currently conducting experiments in software, mobile, cloud, and machine learning.
+- 🛰️ Building one commit at a time until the divergence meter moves.
+- 📟 Status: no time machine yet. The bugs, however, are very real.
+
+## Divergence Meter
+
+<p align="center">
+  <a href="https://github.com/Leclouch">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Divergence%20Meter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Leclouch">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=compact&langs_count=6&theme=chartreuse-dark" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Leclouch&background=0B0F0C&border=315B32&stroke=315B32&ring=8AFF80&fire=C8FACC&currStreakNum=E5FFE2&sideNums=E5FFE2&currStreakLabel=8AFF80&sideLabels=8AFF80&dates=9DC79D&hide_border=false" alt="Contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leclouch&bg_color=0b0f0c&color=c8facc&line=75d66b&point=8aff80&area=true&area_color=19351c&border_color=315b32&custom_title=Operation%20Log" alt="GitHub activity graph" />
+  </a>
+</p>
+
+## Lab Equipment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,flutter,dart,docker,aws,gcp,postgres,mongodb,kubernetes,git&theme=dark" alt="Languages and tools" />
+</p>
+
+---
+
+<p align="center"><i>El Psy Kongroo.</i></p>
