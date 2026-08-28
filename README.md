@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0c&height=170&section=header&text=Future%20Gadget%20Lab&fontSize=48&fontColor=8aff80&animation=twinkling&desc=World%20line%20analysis%20in%20progress...&descSize=18&descAlignY=72" alt="Future Gadget Lab" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0c&height=170&section=header&text=Future%20Gadget%20Lab&fontSize=48&fontColor=8aff80&fontFamily=monospace&animation=twinkling&desc=World%20line%20analysis%20in%20progress...&descSize=18&descAlignY=72" alt="Future Gadget Lab" />
 </p>
 
 <p align="center">
@@ -11,6 +11,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leclouch&label=Lab%20visitors&color=75d66b&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="./assets/lab-terminal.svg" alt="Future Gadget Lab terminal" />
 </p>
 
 ## Lab Notes
@@ -54,10 +58,10 @@ Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. 
   </a>
 </p>
 
+## World Line Activity
+
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leclouch&bg_color=0b0f0c&color=c8facc&line=75d66b&point=8aff80&area=true&area_color=19351c&border_color=315b32&custom_title=Operation%20Log" alt="GitHub activity graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 </p>
 
 ## Lab Equipment
