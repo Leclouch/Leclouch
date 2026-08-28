@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhN3Z3bmppYTFzZDVrdDJ4ejAwb2s3ZHBieHRqMm54YmMxNDE2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgIDPnPkixRau9gwId/giphy.gif" alt="Official lab specimen" width="220" />
 </p>
 
-<h1 align="center">Subject: Wafdan / Leclouch</h1>
+<h1 align="center">Member 001: Leclouch</h1>
 <p align="center"><i>Okabe Rintarou wannabe · building things across a few world lines</i></p>
 
 <p align="center">
@@ -20,6 +20,22 @@
 - 🧪 Currently conducting experiments in software, mobile, cloud, and machine learning.
 - 🛰️ Building one commit at a time until the divergence meter moves.
 - 📟 Status: no time machine yet. The bugs, however, are very real.
+
+## Flagship Experiments
+
+### R2 — ABU Robocon 2026
+
+Computer-vision programmer for an autonomous Kung Fu Quest robot. I build its perception and visual-servoing stack with **Jetson Orin Nano**, **ROS 2**, **RealSense D435i**, and **micro-ROS**—so the robot can see the target before the rest of the system goes somewhere questionable.
+
+### PelletQ-AI
+
+Deterministic fish-feed formulation and pellet-production automation for a catfish farmer. Built with **Next.js**, **TypeScript**, **Prisma**, **ESP32**, and **MQTT**; the LP solver, SNI validator, and rule engine make the decisions. The LLM only explains them—no AI hallucinations in the fish feed.
+
+### TemanKu
+
+Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. Built with **Flutter**, on-device vision, and constrained speech recognition, with a calm child experience and a separate, practical guardian view.
+
+> `wfhomelab` transmission received: Ubuntu Server · self-hosting experiments · Telegram assistant: Amane.
 
 ## Divergence Meter
 
