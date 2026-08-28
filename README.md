@@ -36,6 +36,21 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,flutter,dart,docker,aws,gcp,postgres,mongodb,kubernetes,git&theme=dark" alt="Languages and tools" />
 </p>
 
+## Divergence Meter
+
+<p align="center">
+  <a href="https://github.com/Leclouch">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Divergence%20Meter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Leclouch">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=compact&langs_count=6&theme=chartreuse-dark" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+</p>
+
 
 ## Flagship Experiments
 
@@ -53,20 +68,6 @@ Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. 
 
 > `wfhomelab` transmission received: Ubuntu Server · self-hosting experiments · Telegram assistant: Amane.
 
-## Divergence Meter
-
-<p align="center">
-  <a href="https://github.com/Leclouch">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Divergence%20Meter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/Leclouch">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=compact&langs_count=6&theme=chartreuse-dark" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</p>
 
 
 <!-- <p align="center">
