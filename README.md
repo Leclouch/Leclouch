@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Wafdan / Leclouch</h1>
 <h3 align="center">Okabe Rintarou Wanna be</h3>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Leclouch&rank_icon=github&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leclouch&label=Profile%20views&color=0e75b6&style=flat" alt="leclouch" /> </p>
 
