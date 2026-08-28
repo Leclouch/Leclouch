@@ -1,9 +1,9 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0c&height=170&section=header&text=Future%20Gadget%20Lab&fontSize=48&fontColor=8aff80&fontFamily=monospace&animation=twinkling&desc=World%20line%20analysis%20in%20progress...&descSize=18&descAlignY=72" alt="Future Gadget Lab" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/divergence-meter.svg" alt="Nixie tube divergence meter" />
-</p>
+</p> -->
 
 <table align="center">
   <tr>
@@ -19,6 +19,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leclouch&label=Lab%20visitors&color=75d66b&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 </p>
 
 
@@ -58,17 +62,14 @@ Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. 
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Leclouch&background=0B0F0C&border=315B32&stroke=315B32&ring=8AFF80&fire=C8FACC&currStreakNum=E5FFE2&sideNums=E5FFE2&currStreakLabel=8AFF80&sideLabels=8AFF80&dates=9DC79D&hide_border=false" alt="Contribution streak" />
   </a>
-</p>
+</p> -->
 
-## World Line Activity
+<!-- ## World Line Activity -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</p>
 
 ## Lab Equipment
 
