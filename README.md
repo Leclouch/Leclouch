@@ -2,19 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f0c&height=170&section=header&text=Future%20Gadget%20Lab&fontSize=48&fontColor=8aff80&fontFamily=monospace&animation=twinkling&desc=World%20line%20analysis%20in%20progress...&descSize=18&descAlignY=72" alt="Future Gadget Lab" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhN3Z3bmppYTFzZDVrdDJ4ejAwb2s3ZHBieHRqMm54YmMxNDE2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgIDPnPkixRau9gwId/giphy.gif" alt="Official lab specimen" width="220" />
-</p>
-
-<h1 align="center">Member 001: Leclouch</h1>
-<p align="center"><i>Okabe Rintarou wannabe · building things across a few world lines</i></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h1>Member 001: Leclouch</h1>
+      <i>Okabe Rintarou wannabe · building things across a few world lines</i>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhN3Z3bmppYTFzZDVrdDJ4ejAwb2s3ZHBieHRqMm54YmMxNDE2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tgIDPnPkixRau9gwId/giphy.gif" alt="Official lab specimen" width="150" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leclouch&label=Lab%20visitors&color=75d66b&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="./assets/lab-terminal.svg" alt="Future Gadget Lab terminal" />
+  <img src="./assets/divergence-meter.svg" alt="Nixie tube divergence meter" />
 </p>
 
 ## Lab Notes

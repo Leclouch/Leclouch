@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Future Gadget Lab Nixie divergence meter</title>
+  <desc id="desc">An amber Nixie-tube-style display reading world line divergence 1.048596.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="0" y2="1">
+      <stop stop-color="#151616"/>
+      <stop offset="1" stop-color="#080909"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" x2="1" y2="1">
+      <stop stop-color="#f7e5bd" stop-opacity=".12"/>
+      <stop offset=".42" stop-color="#4d3a20" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#f7e5bd" stop-opacity=".14"/>
+    </linearGradient>
+    <filter id="amber-glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" rx="14" fill="url(#panel)"/>
+  <rect x="1" y="1" width="998" height="298" rx="13" fill="none" stroke="#5e513b" stroke-width="2"/>
+  <path d="M28 68H972M28 250H972" stroke="#6a5a40" stroke-width="1"/>
+  <g font-family="monospace" letter-spacing="2">
+    <text x="34" y="42" fill="#e3a74f" font-size="16" filter="url(#soft-glow)">FUTURE GADGET LAB // DIVERGENCE METER</text>
+    <text x="760" y="42" fill="#a58854" font-size="12">OPERATION SKULD</text>
+    <text x="35" y="278" fill="#a58854" font-size="12">MEMBER_001</text>
+    <text x="784" y="278" fill="#a58854" font-size="12">EL PSY KONGROO</text>
+  </g>
+
+  <g stroke="#9b7a44" stroke-width="2">
+    <rect x="126" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="236" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="346" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="456" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="566" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="676" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+    <rect x="786" y="86" width="78" height="140" rx="39" fill="#0b0b0a"/>
+  </g>
+
+  <g fill="url(#glass)" stroke="#e8c781" stroke-opacity=".34" stroke-width="1">
+    <rect x="130" y="90" width="70" height="132" rx="35"/>
+    <rect x="240" y="90" width="70" height="132" rx="35"/>
+    <rect x="350" y="90" width="70" height="132" rx="35"/>
+    <rect x="460" y="90" width="70" height="132" rx="35"/>
+    <rect x="570" y="90" width="70" height="132" rx="35"/>
+    <rect x="680" y="90" width="70" height="132" rx="35"/>
+    <rect x="790" y="90" width="70" height="132" rx="35"/>
+  </g>
+
+  <g fill="#ffb647" font-family="Georgia, serif" font-size="94" text-anchor="middle" filter="url(#amber-glow)">
+    <text x="165" y="188">1</text>
+    <text x="275" y="188">0</text>
+    <text x="385" y="188">4</text>
+    <text x="495" y="188">8</text>
+    <text x="605" y="188">5</text>
+    <text x="715" y="188">9</text>
+    <text x="825" y="188">6</text>
+  </g>
+  <circle cx="219" cy="200" r="7" fill="#ffb647" filter="url(#amber-glow)"/>
+
+  <g stroke="#463a2a" stroke-width="4">
+    <path d="M142 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M252 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M362 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M472 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M582 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M692 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+    <path d="M802 226v15m16-15v15m16-15v15m16-15v15m16-15v15"/>
+  </g>
+</svg>
