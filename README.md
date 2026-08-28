@@ -21,11 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=leclouch&label=Lab%20visitors&color=75d66b&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</p>
-
-
 
 ## Lab Notes
 
@@ -61,6 +56,11 @@ Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. 
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Leclouch&layout=compact&langs_count=6&theme=chartreuse-dark" alt="Top languages" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leclouch/Leclouch/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+</p>
+
 
 <!-- <p align="center">
   <a href="https://git.io/streak-stats">
