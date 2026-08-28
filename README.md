@@ -30,6 +30,13 @@
 - 🛰️ Building one commit at a time until the divergence meter moves.
 - 📟 Status: no time machine yet. The bugs, however, are very real.
 
+## Lab Equipment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,flutter,dart,docker,aws,gcp,postgres,mongodb,kubernetes,git&theme=dark" alt="Languages and tools" />
+</p>
+
+
 ## Flagship Experiments
 
 ### R2 — ABU Robocon 2026
@@ -71,11 +78,6 @@ Guardian-mediated AI micro-games for Indonesian neurodivergent K–12 students. 
 <!-- ## World Line Activity -->
 
 
-## Lab Equipment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,flutter,dart,docker,aws,gcp,postgres,mongodb,kubernetes,git&theme=dark" alt="Languages and tools" />
-</p>
 
 ---
 
